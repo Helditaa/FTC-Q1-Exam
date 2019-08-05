@@ -1,50 +1,26 @@
 Question 1.1:
 
-Insurtech is a start up that provides health cover and funeral cover to people in Kenya, Ivory Coast and Rwanda; by using an USSD 
-code to access the difference cover plans, as well as make payments. The primary target market of the company are communities with 
-low incomes, that do not have smart phones, and can’t afford the standard health cover and funeral cover plans that exist in the 
-current insurance sectors. Insurtechhas the potential to continuously grow in the next 5 years, as many people in low incomes will 
-be able to access health and funeral covers from anywhere at much lower rates.
+Insurtech is a start up that provides health cover and funeral cover to people in Kenya, Ivory Coast and Rwanda; by using an USSD code to access the difference cover plans, as well as make payments. The primary target market of the company are communities with low incomes, that do not have smart phones, and can’t afford the standard health cover and funeral cover plans that exist in the current insurance sectors. Insurtech as the potential to continuously grow in the next 5 years, as many people in low incomes will be able to access health and funeral covers from anywhere at much lower rates.
 
 Question 1.2:
 
-SunExchange is a start up that allows for individuals to invest money into solar panels. How it works is, Co pays 0.05 BTC to a 
-crowdfund to a solar panel project, and once the solar panels start generating electricity, this is now sold to potential users, 
-and the profit is paid back to Co. SunExchange uses the blockchain that allows customers to exchange their fiat to BTC, and be a 
-part of the investment process, but actually SunExchange could have used other platforms such as wire, in order to exchange crypto 
-currencies to fiat and vice-versa.
+SunExchange is a start up that allows for individuals to invest money into solar panels. How it works is, Co pays 0.05 BTC to a crowdfund to a solar panel project, and once the solar panels start generating electricity, this is now sold to potential users, and the profit is paid back to Co. SunExchange uses the blockchain that allows customers to exchange their fiat to BTC, and be a part of the investment process, but actually SunExchange could have used other platforms such as wire, in order to exchange crypto currencies to fiat and vice-versa. The reason why having the blockchain platform on SunExchange adds no value to its main goal is because they do not have to make the exchange themselves since their focus is on Solar Panels and not decentralized platform for crypto-fiat exchange. Furthermore, the physical contact they have between recording the amount of electricity generated and the amount sold to customers, defeats the purpose of using the blockchain which is a trustless system, SunExchange ‘trusts’ their customers and workers to make the correct observations in energy consumption/generation.
 
 Question 1.3:
 
-Eximbay Coin (EBCoin) had a failed ICO reaching only 34% of its $25.3 million target. The idea behind it was that EBCoin wanted to 
-create a platform for travelers, whereby a universal cryptocurrency is used to make purchases at duty free/ tourism tax refund 
-market.
-The current flow is that customers pay fees and claim their tax, which has to be approved by the regulatory parties, 
-EBCoin would remove the need for intermediaries in these trades, and tourists would make purchases from anywhere in the world, 
-without exchanging currencies, paying fees to the banks, nor waiting to claim the tax refund.
-These ICO failed primarily because the white paper doesn’t mention anything in regards to incentivizing honest behavior to all 
-parties, and their aim was to only stop the governments from profiting from the excessive fees customers pay.
-Secondly, EBCoin doesn’t mention how they’d profit from the platform and the percentage they’ll from each transaction.
-Thirdly, EBCoin ignores any existing foreign exchange controls regulations amongst countries, as well as being able to track 
-any fraudulent behavior in malicious travelers.
-Lastly, their scope is too big and had no clear target market.
-https://www.ebcoin.io/docs/EBCoin_Whitepaper_EN.pdf
+Eximbay Coin (EBCoin) had a failed ICO reaching only 34% of its $25.3 million target. The idea behind it was that EBCoin wanted to create a platform for travelers, whereby a universal cryptocurrency is used to make purchases at duty free/ tourism tax refund market.
+The current flow is that customers pay fees and claim their tax, which has to be approved by the regulatory parties, EBCoin would remove the need for intermediaries in these trades, and tourists would make purchases from anywhere in the world, without exchanging currencies, paying fees to the banks, nor waiting to claim the tax refund.
+These ICO failed primarily because the white paper doesn’t mention anything in regards to incentivizing honest behavior to all parties, and their aim was to only stop the governments from profiting from the excessive fees customers pay; lacking the technical details of it.
+Secondly, EBCoin doesn’t mention how they’d profit from the platform and the percentage they’ll gain from each transaction; lacking the financial analysis of their platform.
+Thirdly, EBCoin ignores any existing foreign exchange controls regulations amongst countries, as well as being able to track any fraudulent behavior in malicious travelers, making it hard to understand how the people are protected from such casualties, as well them.
+Even though they had images of their mobile App platform on the white paper, they didn’t clearly specify their target market, resulting in a very large scope. (https://www.ebcoin.io/docs/EBCoin_Whitepaper_EN.pdf)
 
 Question 1.4:
 
-The main difference between proof of work (PoW) and proof of stake (PoS) is that PoW uses hash power of miners, and awards a 
-block reward every time a new block is verified; being very high energy consuming. Whereas, PoS the probability of mining a block 
-depends on the amount of coins the miner holds; having to actually stake an amount for their blocks to be validated, the higher you 
-stake the higher the chances that your block is validated first.
-The idea behind blockchain would then be chain of blocks that represent decentralized transactions, features that Libra doesn’t 
-have. Libra claim that will be protected but Merkle trees, which is a structure used in the blockchain to store transactions and 
-detect any changes to the existing data.
-Decentralization of libra comes from its Proof of Stake idea that majority of the founding members will attest to new ‘blocks’ 
-once the ‘miners’ have staked some libra for their ‘blocks’. This makes libra not a permission-less platform, and users should 
-trust the founding members to be truthful, hence, an actual centralized system.
-In other words, a centralized body attest to transactions made by users, after staking their libra to get their transaction 
-validated, these are then stored in a merkle tree to be able to detect any changes to the data. Libra is then not: a blockchain, 
-permissionless, trustworthy. 
+The main difference between proof of work (PoW) and proof of stake (PoS) is that PoW uses hash power of miners, and awards a block reward every time a new block is verified; being very high energy consuming. Whereas, PoS the probability of mining a block depends on the amount of coins the miner holds; having to actually stake an amount for their blocks to be validated, the higher you stake the higher the chances that your block is validated first.
+The idea behind blockchain would then be chain of blocks that represent decentralized transactions, features that Libra doesn’t have. Libra claim that will be protected but Merkle trees, which is a structure used in the blockchain to store transactions and detect any changes to the existing data.
+Decentralization of libra comes from its Proof of Stake idea that majority of the founding members will attest to new ‘blocks’ once the ‘miners’ have staked some libra for their ‘blocks’. This makes libra not a permission-less platform, and users should trust the founding members to be truthful, hence, an actual centralized system.
+In other words, a centralized body attest to transactions made by users, after staking their libra to get their transaction validated, these are then stored in a merkle tree to be able to detect any changes to the data. Libra is then not: a blockchain, permissionless, trustworthy. 
 The main advantages of this system are:
 1. PoW has high energy consumption
 The main disadvantages of this system are:
@@ -53,12 +29,4 @@ The main disadvantages of this system are:
 
 Question 1.5:
 
-UniCoin focuses on providing value to academic research papers, meaning that anyone that has a research could easily publish their 
-research and benefit from it without the need for patents. However, this creates an issue when regulations are involved within the 
-academic institutions,  since patents are typically owned by institutions, and most of the time research conducted at universities 
-are binded to the university itself, meaning that research also belongs to the university. So, if a researcher decides to licence 
-their paper, the university also has its rights on the paper, even after the academic has left the institution, this being the main 
-regulatory obstacles, because universities currently have a system to ensure that research produced at the institution is preserved, 
-and if ever commercialized the University also gets credits from it.
-
-
+UniCoin focuses on providing value to academic research papers, meaning that anyone that has a research could easily publish their research and benefit from it without the need for patents. However, this creates an issue when regulations are involved within the academic institutions,  since patents are typically owned by institutions, and most of the time research conducted at universities are binded to the university itself, meaning that research also belongs to the university. So, if a researcher decides to licence their paper, the university also has its rights on the paper, even after the academic has left the institution, this being the main regulatory obstacles, because universities currently have a system to ensure that research produced at the institution is preserved, and if ever commercialized the University also gets credits from it.
